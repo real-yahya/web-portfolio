@@ -1,0 +1,15 @@
+# === VS Code settings ===
+.vscode/
+
+# === Linux system/cache files ===
+.cache/
+*~
+
+# === Logs ===
+*.log
+
+# === macOS (optional, safe to include) ===
+.DS_Store
+
+# === Environment secrets (if you add any) ===
+.env
